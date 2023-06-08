@@ -5,3 +5,4 @@ b = int(input("Введите число: "))
 
 print(a, b)
 print(a+b)
+print(a-b)
