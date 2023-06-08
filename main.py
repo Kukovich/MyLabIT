@@ -1,6 +1,7 @@
 print("Начало")
 
-a = input("Введите число: ")
-b = input("Введите число: ")
+a = int(input("Введите число: "))
+b = int(input("Введите число: "))
 
 print(a, b)
+print(a+b)
